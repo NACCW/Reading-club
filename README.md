@@ -1,6 +1,6 @@
 # NACCW Reading and Writing bookclub
 
-![PWA](Screenshot from 2020-06-09 23-57-17.png)
+![PWA](BookClub.png)
 
 
 ###  About : A Progressive web application for stories written by the benefitiaries of NACCW
