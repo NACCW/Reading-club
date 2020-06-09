@@ -1,17 +1,17 @@
 # NACCW Reading and Writing bookclub
 
 
-## About : A Progressive web application for stories written by the benefitiaries of NACCW
+###  About : A Progressive web application for stories written by the benefitiaries of NACCW
 
 
 ## How to send story?
 
-Visit the website link to upload the story as a registered user
+Visit the website [link](https://wordpress-8275-0.cloudclusters.net/) to upload the story as a registered user
 
 
 ## How to read the story?
 
-Visit the website link to read as a non-registered user
+Visit the website [link](https://wordpress-8275-0.cloudclusters.net/) to read as a non-registered user
 
 ## Accesibility?
 
